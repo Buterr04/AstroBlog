@@ -3,9 +3,10 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
+	site: 'https://buterr04.github.io/',
 	integrations: [
 		starlight({
-			title: 'Buterr Blog',
+			title: 'Buterr\'s Blog',
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/Buterr04' },
 			],
