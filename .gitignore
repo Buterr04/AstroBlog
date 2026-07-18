@@ -22,3 +22,6 @@ pnpm-debug.log*
 
 # CF Worker Files
 .wrangler/
+
+# VSCode settings
+.vscode/
