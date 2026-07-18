@@ -1,5 +1,7 @@
 ---
 title: Gemini API 使用笔记
+sidebar:
+  label: Gemini API 使用笔记
 description: >-
   Gemini API 使用笔记
 authors:

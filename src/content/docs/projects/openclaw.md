@@ -1,9 +1,12 @@
 ---
 title: 打造你的私人 AI 助手：OpenClaw 配置与使用指南
+sidebar:
+  label: OpenClaw 配置与使用指南
 description: >-
   打造你的私人 AI 助手：OpenClaw 配置与使用指南
 authors:
   - Buterr
+  - clawbot: Takanashi Hoshino
 lastUpdated: 2026-06-02
 tags:
   - 技术实践
@@ -19,6 +22,7 @@ footer: 自我提升
 # 打造你的私人 AI 助手：OpenClaw 配置与使用指南
 
 > 本文记录了我在服务器上部署 OpenClaw 并配置 QQ Bot 的全过程，希望能帮到同样想折腾的朋友。
+> 全文由AI Clawbot助手 Takanashi Hoshino 撰写，感谢她的帮助。
 
 ## 前言
 

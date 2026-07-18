@@ -1,5 +1,7 @@
 ---
 title: LangChain 学习笔记
+sidebar:
+  label: LangChain 学习笔记
 description: >-
   LangChain 学习笔记
 authors:

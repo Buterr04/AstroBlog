@@ -1,5 +1,7 @@
 ---
 title: Go语言
+sidebar:
+  label: Go语言
 description: >-
   Go语言
 authors:

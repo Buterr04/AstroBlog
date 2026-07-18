@@ -1,5 +1,7 @@
 ---
 title: Redis（Remote Dictionary Server）
+sidebar:
+  label: Redis 入门
 description: >-
   Redis（Remote Dictionary Server）
 authors:

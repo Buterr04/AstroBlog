@@ -1,5 +1,7 @@
 ---
 title: Flutter
+sidebar:
+  label: Flutter 入门
 description: >-
   Flutter
 authors:

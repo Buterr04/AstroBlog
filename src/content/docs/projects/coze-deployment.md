@@ -1,5 +1,7 @@
 ---
 title: Coze Studio 扣子开源项目本地部署
+sidebar:
+   title: Coze Studio 本地部署
 description: >-
   Coze Studio 扣子开源项目本地部署
 authors:

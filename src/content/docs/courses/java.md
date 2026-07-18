@@ -1,5 +1,7 @@
 ---
 title: Java高级语言程序设计 笔记📒
+sidebar:
+  label: Java程序设计
 description: >-
   Java高级语言程序设计 笔记📒
 authors:

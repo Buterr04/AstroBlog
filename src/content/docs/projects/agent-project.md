@@ -1,5 +1,7 @@
 ---
 title: 基于大模型Agent的快递包裹检测与赔付决策系统
+sidebar:
+  label: 快递包裹破损识别系统
 description: >-
   基于大模型Agent的快递包裹检测与赔付决策系统
 authors:
@@ -15,8 +17,6 @@ tags:
 copyright: Buterr
 footer: BUPT毕业设计
 ---
-
-# 基于大模型Agent的快递包裹检测与赔付决策系统
 
 仓库地址
 - [GitHub 仓库](https://github.com/Buterr04/MyPackages_Checker)

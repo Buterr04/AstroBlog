@@ -1,5 +1,7 @@
 ---
 title: C高级语言程序设计 笔记📒
+sidebar:
+    label: C语言程序设计
 description: >-
   C高级语言程序设计 笔记📒
 authors:

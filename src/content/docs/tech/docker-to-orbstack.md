@@ -1,5 +1,7 @@
 ---
 title: 从 Docker Desktop 迁移到 OrbStack
+sidebar:
+  label: Docker -> OrbStack 迁移
 description: >-
   从 Docker Desktop 迁移到 OrbStack 的完整指南，包括安装、配置、迁移和踩坑记录。
 authors:

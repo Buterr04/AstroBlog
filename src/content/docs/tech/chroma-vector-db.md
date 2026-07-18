@@ -1,5 +1,7 @@
 ---
 title: Chroma 向量数据库
+sidebar: 
+  label: Chroma 向量数据库
 description: >-
   Chroma 向量数据库
 authors:
