@@ -1,7 +1,7 @@
 ---
 title: Jakarta EE程序设计 笔记📒
 sidebar:
-  label: 程序设计
+  label: Jakarta EE程序设计
 description: >-
     Jakarta EE程序设计 笔记📒
 authors:
