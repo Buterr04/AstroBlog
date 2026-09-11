@@ -1,3 +1,20 @@
+---
+title: Jakarta EE程序设计 笔记📒
+sidebar:
+  label: 程序设计
+description: >-
+    Jakarta EE程序设计 笔记📒
+authors:
+  - Buterr
+lastUpdated: 2026-09-11
+tags:
+  - 课程笔记
+  - Jakarta EE
+  - 程序设计
+copyright: Buterr
+footer: UESTC 2026秋季课程
+---
+
 # 面向对象的Jakarta EE程序设计
 
 实验过程存储在仓库Github
