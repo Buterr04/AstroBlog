@@ -1,3 +1,20 @@
+---
+title: Python for Data Analysis 📒
+sidebar:
+  label: Python for Data Analysis
+description: >-
+    Python for Data Analysis 笔记📒
+authors:
+  - Buterr
+lastUpdated: 2026-11-04
+tags:
+  - 课程笔记
+  - Python
+  - 程序设计
+copyright: Buterr
+footer: ESIGELEC 2026秋季课程
+---
+
 # Python for Data Analysis
 
 > 根据课堂转写、Session 1–4 幻灯片及课程练习重新整理。案例和代码已融入对应知识点，不再单独设置 TP 章节。文末是一套全新的 **20 道单项选择 MCQ**，附中文翻译、答案与解析。
